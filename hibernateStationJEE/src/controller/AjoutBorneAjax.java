@@ -27,7 +27,8 @@ public class AjoutBorneAjax extends HttpServlet {
         super();
         // TODO Auto-generated constructor stub
     }
-//Nuggets and
+    //Nuggets and m&m's
+//Nuggets and m&m's
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
