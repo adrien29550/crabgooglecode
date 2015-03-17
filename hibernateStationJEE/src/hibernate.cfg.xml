@@ -2,7 +2,7 @@
 <!DOCTYPE hibernate-configuration PUBLIC
      "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
     "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
-    
+
 <hibernate-configuration>
 	<session-factory>
 		<!-- Affiche les logs SQL -->
@@ -25,6 +25,6 @@
 		<mapping class="modele.metier.Station" />
 		<mapping class="modele.metier.Borne" />
 		<mapping class="modele.metier.TypeCharge" />
-	
+	   <maping class=" tralalalalère"/>
 	</session-factory>
 </hibernate-configuration>
